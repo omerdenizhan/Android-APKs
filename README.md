@@ -4,7 +4,7 @@
 * Ticari bir eyleme dönüştürülmemesi şartlarıyla çalışmalarımı paylaşabilirsiniz.
 
 # Uyarılar
-* Proje içerisinde herhangi bir içeriğin yayını tarafımca yapılmamakta olup farklı kaynaklardan alınan içeriklere IPTV oynatıcıların destekleyeceği şekilde yönlendirme yapılmaktadır.
+* Proje içerisinde herhangi bir içeriğin yayını tarafımca yapılmamakta olup farklı kaynaklardan alınan içeriklere uygulama içerisindeki oynatıcıların destekleyeceği şekilde yönlendirme yapılmaktadır.
 * Paylaşımlar içerisinde herhangi bir ücretli platforma ait içerikler veya direkt ücretli içerikler bulunmamaktadır.
 
 # Son Güncelleme
