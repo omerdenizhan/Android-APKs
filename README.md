@@ -1,7 +1,6 @@
 # Güncel Android APK Paylaşımı
-* İnternetten ücretsiz olarak izlenebilen içerikler için başkaları tarafından Android APK uygulaması haline getirilen ve ücretli aboneliği bulunmayan dosyaları APKs klasöründe paylaşmaktayım.
+* İnternetten ücretsiz olarak izlenebilen içerikler için Android APK uygulaması haline getirilen ve ücretli aboneliği bulunmayan dosyaları APKs klasöründe paylaşmaktayım.
 * MAXTV uygulamasını kullanmak için VPN kullanmanız gerekmektedir. (Kendi VPN uygulamanızı veya VPN klasöründeki Psiphon Pro APK uygulamasını kurarak kullanmanız yeterlidir.)
-
 * Ticari bir eyleme dönüştürülmemesi şartlarıyla çalışmalarımı paylaşabilirsiniz.
 
 # Uyarılar
